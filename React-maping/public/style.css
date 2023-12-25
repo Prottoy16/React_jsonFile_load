@@ -1,0 +1,30 @@
+*{
+    margin:0;
+    padding:0;
+}
+.Container{
+    background-color:rgb(131, 7, 131);
+    padding:10px;
+}
+.CardsTag{
+  text-align:center;
+}
+.Card{
+ width:40%;
+ background-color:aliceblue;
+ padding:10px;
+ border-radius:5px;
+ box-shadow:3px 3px 3px rgb(125, 118, 118); 
+ opacity:0.6;
+ margin-bottom:10px;
+}
+.Card:hover{
+    opacity:1;
+}
+.title{
+font-size:1.3rem;
+margin-bottom:5px;
+}
+.description{
+font-size:1rem;
+}
